@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AdessoRideShare.Entity/1.0.0": {
+        "dependencies": {
+          "AdessoRideShare.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AdessoRideShare.Entity.dll": {}
+        }
+      },
+      "AdessoRideShare.Shared/1.0.0": {
+        "runtime": {
+          "AdessoRideShare.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdessoRideShare.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdessoRideShare.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

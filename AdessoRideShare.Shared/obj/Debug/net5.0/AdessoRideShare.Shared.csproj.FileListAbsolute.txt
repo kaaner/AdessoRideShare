@@ -1,0 +1,12 @@
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\bin\Debug\net5.0\AdessoRideShare.Shared.deps.json
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\bin\Debug\net5.0\AdessoRideShare.Shared.dll
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\bin\Debug\net5.0\ref\AdessoRideShare.Shared.dll
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\bin\Debug\net5.0\AdessoRideShare.Shared.pdb
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.AssemblyInfoInputs.cache
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.AssemblyInfo.cs
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.csproj.CoreCompileInputs.cache
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.dll
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\ref\AdessoRideShare.Shared.dll
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.pdb
+C:\Repo\AdessoRideShare\AdessoRideShare.Shared\obj\Debug\net5.0\AdessoRideShare.Shared.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Amatis.Entity/1.0.0": {
+        "dependencies": {
+          "Amatis.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Amatis.Entity.dll": {}
+        }
+      },
+      "Amatis.Shared/1.0.0": {
+        "runtime": {
+          "Amatis.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amatis.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amatis.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
